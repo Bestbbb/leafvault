@@ -1,0 +1,13 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+node_modules/
+target/
+dist/
+coverage/
+*.log
+
+# Local working data must not be published as project examples.
+.local/
+test-vaults-private/
